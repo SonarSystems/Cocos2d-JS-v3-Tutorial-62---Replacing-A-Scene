@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-62---Replacing-A-Scene
+Cocos2d-JS v3 Tutorial 62 - Replacing A Scene
 =============================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/JNegQHIQwi8
